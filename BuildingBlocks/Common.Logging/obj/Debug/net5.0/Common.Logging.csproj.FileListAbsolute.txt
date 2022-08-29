@@ -1,0 +1,12 @@
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.deps.json
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.dll
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\bin\Debug\net5.0\ref\Common.Logging.dll
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\bin\Debug\net5.0\Common.Logging.pdb
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.csprojAssemblyReference.cache
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.AssemblyInfoInputs.cache
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.AssemblyInfo.cs
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.csproj.CoreCompileInputs.cache
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.dll
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\ref\Common.Logging.dll
+D:\Courses\microservices\run-aspnetcore-microservices-master\src\BuildingBlocks\Common.Logging\obj\Debug\net5.0\Common.Logging.pdb

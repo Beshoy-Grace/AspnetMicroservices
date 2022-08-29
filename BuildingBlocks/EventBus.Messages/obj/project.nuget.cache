@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jV9knWkrZlUeXkz79O2qJFeJDI+KpB+zn5sXif563l1cdwwkpEqA0VlBLmrLzZctSokkk1Bh1UAnHzOtRxl0UA==",
+  "success": true,
+  "projectFilePath": "D:\\Courses\\microservices\\run-aspnetcore-microservices-master\\src\\BuildingBlocks\\EventBus.Messages\\EventBus.Messages.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beshoy.Grace\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Beshoy.Grace\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Beshoy.Grace\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
